@@ -10,7 +10,7 @@ class Signup extends Component {
     
     }
     clickHandler(){
-        window.location.href = "./Firstpage"
+        window.location.href = "./"
     }
 
         render() {

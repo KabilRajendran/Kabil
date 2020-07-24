@@ -3,7 +3,7 @@ import React, { Component } from 'react'
 class Loginpage extends Component {
 
     clickHandler(){
-        window.location.href="./FirstPage"
+        window.location.href="./"
     }
 
     render() {
